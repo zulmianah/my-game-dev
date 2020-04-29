@@ -1,5 +1,11 @@
 # Biographie
-Je m'appelle `Zulmianah`, née le `12 Mars 1999 a Ilafy(Antananarivo)`. 
+Je m'appelle `Zulmianah`, née le `12 mars 1999` à `Ilafy(Antananarivo)`. Je me suis intéressée au bricolage de jeux vidéo qu'en participant à une `game jam` (un hackathon avec pour thème principal les jeux vidéo), poussée par une amie.
+
+J'ai beaucoup aimé l'ambiance durant la jam, j'ai eu pas mal de nouvelles connaissances. En participant aux global games jam, j'etais fascinée par les nombreux domaines que rassemble le développement de jeux vidéo (développeur, graphiste, storytelller...)
+
+En participant à plusieurs jams, je suis parvenue à commencer à faire du sound design et à dessiner. J'etais impressionnée par le sens de la créativité et le sens d'improvisation que doit avoir un passionne de game dev.
+
+Je dois dire que développer des jeux vidéo est aussi amusant qu'en jouer 😉.
 # Jeux
 Moi, Zulmianah, j'ai travaillée sur :
  - [Times like these](https://globalgamejam.org/2019/games/times-these), en 2019
@@ -40,6 +46,7 @@ Risky zone est un jeu d'aventure. Le jeu met en scène des intrigues simples, é
  - Organisation: [ONG Youth First](https://youthfirst.itch.io/)
  - Jam Site: [Safer Internet Day 2020 MG](https://itch.io/jam/safer-internet-day-2020-mg?fbclid=IwAR0ov3AcyFf-Bpg-TOKkVteCiVM21tnMuq9Fh1Dk8Yl3CyXhHq1KZw4zI8c)
  - Source Files: [ong-youth-first-risky-zone.zip](https://drive.google.com/uc?export=download&confirm=P4BJ&id=1uC90TS0LSmBtZ9bekTnOfGNNWqV09s6p)
+ - Game Tags: `2D` `Action` `RPG` `Unity`
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6gcWJXfsrlQ
 " target="_blank"><img src="https://img.itch.zone/aW1hZ2UvNTc2OTczLzMwNDc0MTgucG5n/347x500/xqKbyk.png" 
