@@ -1,11 +1,11 @@
 # Biographie
-Je m'appelle `Zulmianah`, née le `12 mars 1999` à `Ilafy(Antananarivo)`. Je me suis intéressée au bricolage de jeux vidéo qu'en participant à une *game jam* (un hackathon avec pour thème principal les jeux vidéo), poussée par une amie.
+Je m'appelle `Zulmianah`, née le `12 mars 1999` à `Ilafy(Antananarivo)`. J'ai commencé à m'intéresser au bricolage de jeux vidéos lorsqu'une amie m'a poussée à participer au *"global game jam"* en 2019, un hackaton qui a pour thème principal les jeux vidéos. J'ai beaucoup aimé l'ambiance durant la *"jam"* et j'ai pas mal acquéri de nouveaux savoirs. 
 
-J'ai beaucoup aimé l'ambiance durant la *jam*, j'ai eu pas mal de nouvelles connaissances. En participant au *global game jam*, j'etais fascinée par les nombreux domaines que rassemble le développement de jeux vidéo *(développeur, graphiste, storytelller...)*
+En participant au *"global game jam"*, j'ai été fascinée par les nombreux domaines que rassemblent le développement des jeux vidéos *(développeur, graphiste, storytelller...)*
 
 En participant à plusieurs jams, je suis parvenue à commencer à faire du *sound design* et à dessiner. J'etais impressionnée par le sens de la créativité et le sens d'improvisation que doit avoir un passionne de game dev.
 
-Je dois dire que développer des jeux vidéo est aussi amusant qu'en jouer.
+e me permet de dire que développer des jeux vidéos est aussi amusant qu'en jouer.
 # Jeux
 Moi, Zulmianah, j'ai travaillée sur :
  - [Times like these](https://globalgamejam.org/2019/games/times-these), en 2019
@@ -15,7 +15,7 @@ Moi, Zulmianah, j'ai travaillée sur :
 
 
 ## Times like these
-La maison peut être l'endroit où vous avez grandi, la maison peut être une personne, la maison est en fait l'endroit où vous vous sentez bien et en sécurité. Le jeu, comme vous le savez, a dû être fait en 48 heures. Ce n'est donc pas parfait. Mais l'idée principale est que ce petit garçon est en fait un homme adulte qui a sa propre maison, sa propre famille maintenant. Par hasard, il a trouvé une boîte pleine de vieilles choses et de vieilles photos de lui. Cela lui a rappelé son enfance et son adolescence, son premier amour (qui est devenu sa femme ! oui, c'est une histoire heureuse) et sa vieille maison. [Plus](https://globalgamejam.org/2019/games/times-these)
+La maison peut être l'endroit où vous avez grandi, la maison peut être une personne, la maison est en fait l'endroit où vous vous sentez bien et en sécurité. Le jeu, comme vous le savez, a dû être fait en 48 heures. Ce n'est donc pas parfait. Mais l'idée principale est que ce petit garçon est en fait un homme adulte qui a sa propre maison, sa propre famille. Un jour, il a trouvé une boîte pleine de vieux objets et de vieilles photos de lui. Il se rappele alors de son enfance, de son adolescence, son premier amour (qui est devenu sa femme ! oui, c'est une histoire heureuse) et sa vieille maison. [Plus](https://globalgamejam.org/2019/games/times-these)
 
  - Jam Site: [Passion 4 Humanity](https://globalgamejam.org/2019/jam-sites/passion-humanity)
  - Source Files: [Time Like These exe.zip](https://ggj.s3.amazonaws.com/games/2019/01/176824/exec/C0Uf4/Time%20Like%20These%20exe.zip)
