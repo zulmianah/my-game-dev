@@ -57,6 +57,7 @@ Avec [Irchad](https://globalgamejam.org/users/ebi), [Zulmianah](https://globalga
 [times-like-these-cinematic-1]: https://img.itch.zone/aW1nLzMzNDg4MDcucG5n/original/zzEo4U.png "times-like-these-cinematic-1.png"
 [hafa-cinematic-1]: https://img.itch.zone/aW1nLzMzNDg4NTQucG5n/347x500/6b6RRY.png "hafa-cinematic-1.png"
 
+---
 
-Email: zulmianah@gmail.com
-Contact: +261 34 61 790 19
+ - Email: zulmianah@gmail.com
+ - Contact: +261 34 61 790 19
