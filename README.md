@@ -5,7 +5,7 @@ J'ai beaucoup aimé l'ambiance durant la *jam*, j'ai eu pas mal de nouvelles con
 
 En participant à plusieurs jams, je suis parvenue à commencer à faire du *sound design* et à dessiner. J'etais impressionnée par le sens de la créativité et le sens d'improvisation que doit avoir un passionne de game dev.
 
-Je dois dire que développer des jeux vidéo est aussi amusant qu'en jouer 😉.
+Je dois dire que développer des jeux vidéo est aussi amusant qu'en jouer.
 # Jeux
 Moi, Zulmianah, j'ai travaillée sur :
  - [Times like these](https://globalgamejam.org/2019/games/times-these), en 2019
