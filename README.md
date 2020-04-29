@@ -1,4 +1,4 @@
-# 🧕 Biographie
+# Biographie
 Je m'appelle `Zulmianah`, née le `12 mars 1999` à `Ilafy(Antananarivo)`. Je me suis intéressée au bricolage de jeux vidéo qu'en participant à une *game jam* (un hackathon avec pour thème principal les jeux vidéo), poussée par une amie.
 
 J'ai beaucoup aimé l'ambiance durant la *jam*, j'ai eu pas mal de nouvelles connaissances. En participant au *global game jam*, j'etais fascinée par les nombreux domaines que rassemble le développement de jeux vidéo *(développeur, graphiste, storytelller...)*
@@ -6,7 +6,7 @@ J'ai beaucoup aimé l'ambiance durant la *jam*, j'ai eu pas mal de nouvelles con
 En participant à plusieurs jams, je suis parvenue à commencer à faire du *sound design* et à dessiner. J'etais impressionnée par le sens de la créativité et le sens d'improvisation que doit avoir un passionne de game dev.
 
 Je dois dire que développer des jeux vidéo est aussi amusant qu'en jouer 😉.
-# 🎮 Jeux
+# Jeux
 Moi, Zulmianah, j'ai travaillée sur :
  - [Times like these](https://globalgamejam.org/2019/games/times-these), en 2019
  - [Hafa](https://globalgamejam.org/2020/games/hafa-4), en Janvier 2020
@@ -57,12 +57,6 @@ Avec [Irchad](https://globalgamejam.org/users/ebi), [Zulmianah](https://globalga
 [times-like-these-cinematic-1]: https://img.itch.zone/aW1nLzMzNDg4MDcucG5n/original/zzEo4U.png "times-like-these-cinematic-1.png"
 [hafa-cinematic-1]: https://img.itch.zone/aW1nLzMzNDg4NTQucG5n/347x500/6b6RRY.png "hafa-cinematic-1.png"
 
-# 💻
 
-```json
-{
-  "name": "Zulmianah",
-  "email": "zulmianah@gmail.com",
-  "contact": "+261 34 61 790 19"
-}
-```
+Email: zulmianah@gmail.com
+Contact: +261 34 61 790 19
